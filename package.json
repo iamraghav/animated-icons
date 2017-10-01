@@ -1,0 +1,10 @@
+{
+  "name": "animated-icons",
+  "version": "1.0.0",
+  "description": "animated font icons using vanilla",
+  "main": "main.js",
+  "repository": "git@github.com:iamraghav/animated-icons.git",
+  "author": "iamraghav <raghav3992@gmail.com>",
+  "license": "ISC",
+  "private": false
+}
