@@ -1,0 +1,32 @@
+.navbar .lead {
+  color: #fff;
+  margin-right: 20px;
+}
+.row {
+  margin-top: 20px;
+}
+
+.card {
+  text-align: center;
+  padding: 10px;
+}
+
+#chain {
+  font-size: 170px;
+  color: #42301a;
+}
+
+#thumbs {
+  font-size: 30px;
+  color: #1799d6;
+}
+
+#battery {
+  font-size: 170px;
+  color: #3fc924;
+}
+
+#hourglass {
+  font-size: 170px;
+  color: #b59555;
+}
